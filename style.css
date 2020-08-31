@@ -1,0 +1,45 @@
+body {
+	font-family: Arial;
+	color: white;
+}
+#animation1 {
+	background: #fa0;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+#animation2{
+	background: #f00;
+	position: absolute;
+	margin-top: 10px;
+	font-size: 40px;
+	text-align: center;
+}
+#animation3{
+	background: #2fd415;
+	position: absolute;
+	margin-top: 168px;
+	font-size: 30px;
+	text-align: center;
+}
+#animation4{
+	background: #e50bde;
+	position: absolute;
+	margin-top: 168px;
+	font-size: 30px;
+	text-align: center;
+	margin-left: 155px;
+}
+#animation5{
+	background: blue;
+	position: absolute;
+	margin-top: 168px;
+	font-size: 50px;
+	margin-left: 155px;
+	text-align: center;
+	margin-top: 383px;
+	left: 40px;
+}
+#animation6{
+
+}
